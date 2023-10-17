@@ -1,140 +1,34 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "action_access": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_copy": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_create": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_create-chart": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_create-connection": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_create-dashboard": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_create-dataset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_delete": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_edit": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_move": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_rename": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_duplicate": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_apply": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_workbook-table-load-more": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_workbook-table-retry": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_copy": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_delete-entry": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_entry-name-already-exists": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_last-modified": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_no-data": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_rename-entry": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_placeholder": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "menu_connection": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "menu_dashboard": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "menu_dataset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "menu_editor-chart": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "menu_ql-chart": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "menu_wizard-chart": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_delete-entry": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "action_access": "Доступ",
+  "action_cancel": "Отменить",
+  "action_copy": "Копировать",
+  "action_create": "Создать",
+  "action_create-chart": "Создать чарт",
+  "action_create-connection": "Создать подключение",
+  "action_create-dashboard": "Создать дашборд",
+  "action_create-dataset": "Создать датасет",
+  "action_delete": "Удалить",
+  "action_edit": "Редактировать",
+  "action_move": "Переместить",
+  "action_rename": "Переименовать",
+  "action_duplicate": "Дублировать",
+  "button_apply": "Применить",
+  "button_cancel": "Отменить",
+  "button_workbook-table-load-more": "Загрузить ещё",
+  "button_workbook-table-retry": "Обновить страницу",
+  "label_copy": "копия",
+  "label_delete-entry": "Удаление",
+  "label_entry-name-already-exists": "Название уже используется, придумайте другое",
+  "label_last-modified": "Последнее изменение",
+  "label_no-data": "Пусто",
+  "label_rename-entry": "Переименование",
+  "label_title": "Название",
+  "label_placeholder": "Введите имя",
+  "menu_connection": "Подключение",
+  "menu_dashboard": "Дашборд",
+  "menu_dataset": "Датасет",
+  "menu_editor-chart": "Чарт в Editor",
+  "menu_ql-chart": "QL-чарт",
+  "menu_wizard-chart": "Чарт в Wizard",
+  "section_delete-entry": "Вы действительно хотите удалить \"{{entryName}}\"?"
 }
