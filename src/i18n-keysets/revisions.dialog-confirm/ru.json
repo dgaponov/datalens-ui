@@ -1,32 +1,7 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_confirm": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_text": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_text-unsaved-lost": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_cancel": "Отмена",
+  "button_confirm": "Да, сделать",
+  "label_text": "Будет создана копия версии, которую вы просматриваете сейчас. При этом вы всегда можете вернуться к предыдущим версиям.",
+  "label_text-unsaved-lost": "Все несохраненные изменения будут потеряны.",
+  "label_title": "Сделать актуальной?"
 }
