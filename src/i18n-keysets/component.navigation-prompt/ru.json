@@ -1,16 +1,3 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "label_prompt-message": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "label_prompt-message": "На странице есть несохраненные изменения. Вы уверены?"
 }
