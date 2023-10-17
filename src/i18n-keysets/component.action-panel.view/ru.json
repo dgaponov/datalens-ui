@@ -1,32 +1,7 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_open-navigation": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_switch-public": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_breadcrumb-new": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_history-changes": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_history-changes-date-limit": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_open-navigation": "Открыть навигацию",
+  "button_switch-public": "Публичный доступ",
+  "label_breadcrumb-new": "new {{scope}}",
+  "label_history-changes": "История изменений",
+  "label_history-changes-date-limit": "Доступна история за последние три месяца"
 }
