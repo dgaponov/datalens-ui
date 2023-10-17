@@ -1,300 +1,75 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_add": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_apply": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_deselect-all": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_select-all": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_setup": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "context_add-value": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "context_choose": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "context_date-days-ago": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "context_date-from-days-ago": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "context_date-to-days-ago": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "context_title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_acceptable-values": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_autoheight": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_control": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_dataset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_date-from": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_date-range": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_date-to": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_date-with-time": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_default-value": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_element-type": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_end-time": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_field": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_field-name": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_inner-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_inner-title-note": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_multiselectable": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_operation": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_operation-note": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_params": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_preset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_selector-type": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_show-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_source": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_start-time": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_type": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_acceptable-values": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_autoheight-disable": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_autoheight-enable": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_common-settings": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_control": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_default-value": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_empty-list": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_no-operations": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_section-appearance": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "placeholder_search": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "radio-button_all": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "radio-button_selected": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "text_empty-items": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "validation_required": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_absolute-date": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_date-accepted-all": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_date-accepted-end": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_date-accepted-start": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_date-ago": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_date-days-ago-from-to": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_date-forward": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_date-manual": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_date-no-limits": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_element-date": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_element-input": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_element-select": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_not-chosen": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_relative-date": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_select-values": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_source-dataset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_source-external": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_source-manual": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_undefined": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_add": "Добавить",
+  "button_apply": "Применить",
+  "button_cancel": "Отменить",
+  "button_deselect-all": "Очистить",
+  "button_open": "Открыть",
+  "button_save": "Сохранить",
+  "button_select-all": "Выбрать всё",
+  "button_setup": "Настроить",
+  "context_add-value": "Добавить значение",
+  "context_choose": "Выбрать",
+  "context_date-days-ago": "Дней назад",
+  "context_date-from-days-ago": "Начало, дней назад",
+  "context_date-to-days-ago": "Конец, дней назад",
+  "context_title": "Заголовок",
+  "field_acceptable-values": "Возможные значения",
+  "field_autoheight": "Автовысота",
+  "field_control": "Селектор",
+  "field_dataset": "Датасет",
+  "field_date-from": "Начало",
+  "field_date-range": "Диапазон",
+  "field_date-to": "Конец",
+  "field_date-with-time": "Время",
+  "field_default-value": "Значение по умолчанию",
+  "field_element-type": "Тип элемента",
+  "field_end-time": "Конец",
+  "field_field": "Поле",
+  "field_field-name": "Имя поля или параметра",
+  "field_inner-title": "Внутренний заголовок",
+  "field_inner-title-note": "Внутренний заголовок позволяет обозначить тип операции внутри селектора.<br><br>Доступен в типах селектора «Список» и «Поле ввода».",
+  "field_multiselectable": "Множественный выбор",
+  "field_operation": "Операция",
+  "field_operation-note": "Тип операции не влияет на QL-чарты и параметры",
+  "field_params": "Параметры",
+  "field_preset": "Пресет",
+  "field_selector-type": "Тип селектора",
+  "field_show-title": "Показывать",
+  "field_source": "Источник",
+  "field_start-time": "Начало",
+  "field_title": "Название",
+  "field_type": "Тип",
+  "label_acceptable-values": "Возможные значения",
+  "label_autoheight-disable": "Выключить",
+  "label_autoheight-enable": "Включить",
+  "label_common-settings": "Общие настройки",
+  "label_control": "Селектор",
+  "label_default-value": "Значение по умолчанию",
+  "label_empty-list": "Список пуст",
+  "label_no-operations": "Для заданных настроек нет подходящих операций",
+  "label_section-appearance": "Внешний вид",
+  "placeholder_search": "Поиск",
+  "radio-button_all": "Все",
+  "radio-button_selected": "Выбранные",
+  "text_empty-items": "Нет значений",
+  "validation_required": "Поле должно быть заполнено",
+  "value_absolute-date": "Точная дата",
+  "value_date-accepted-all": "Весь допустимый интервал",
+  "value_date-accepted-end": "Конец допустимого интервала",
+  "value_date-accepted-start": "Начало допустимого интервала",
+  "value_date-ago": "назад",
+  "value_date-days-ago-from-to": "Начало: {{from}}. Конец: {{to}}",
+  "value_date-forward": "вперёд",
+  "value_date-manual": "Выбор значения",
+  "value_date-no-limits": "Не ограничено",
+  "value_element-date": "Календарь",
+  "value_element-input": "Поле ввода",
+  "value_element-select": "Список",
+  "value_not-chosen": "Не выбрано",
+  "value_relative-date": "Смещение от текущей даты",
+  "value_select-values": "Значений: {{count}}",
+  "value_source-dataset": "На основе датасета",
+  "value_source-external": "Внешний селектор",
+  "value_source-manual": "Ручной ввод",
+  "value_undefined": "Не определено"
 }
