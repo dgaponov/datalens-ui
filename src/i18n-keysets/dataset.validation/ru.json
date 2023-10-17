@@ -1,24 +1,5 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "label_duplicated_paths_error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_duplicated_titles_error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_required-field-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "label_duplicated_paths_error": "В списке есть одинаковые пути",
+  "label_duplicated_titles_error": "В списке уже есть источник с таким же названием. Чтобы избежать повторения, пожалуйста, измените название добавляемого источника.",
+  "label_required-field-error": "Поле обязательно для заполнения"
 }
