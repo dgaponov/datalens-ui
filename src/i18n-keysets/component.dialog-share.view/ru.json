@@ -1,100 +1,24 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "field_language": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_theme": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_editors-hint": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_iframe": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_iframe-description": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_link": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_link-description": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_markup": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_markup-description": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_new-editor": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_old-editor": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_params": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_params-description": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "title_share": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_hide-comments": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_hide-menu": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_language-auto": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_language-eng": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_language-rus": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_theme-auto": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_theme-dark": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_theme-light": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "field_language": "Язык: ",
+  "field_theme": "Тема: ",
+  "label_editors-hint": "Тип редактора должен соответствовать сервису. То есть если Wiki и Tracker у вас переключены на новый интерфейс, используйте новый редактор, если нет — старый.",
+  "label_iframe": "Встроить в HTML-страницу",
+  "label_iframe-description": "Код для вставки на веб-страницы сайтов через iframe ",
+  "label_link": "Ссылка",
+  "label_link-description": "Объект будет доступен по ссылке",
+  "label_markup": "Встроить в сервис",
+  "label_markup-description": "",
+  "label_new-editor": "Новый редактор",
+  "label_old-editor": "Старый редактор",
+  "label_params": "Параметры",
+  "label_params-description": "Как объект будет отображаться у пользователей",
+  "title_share": "Поделиться объектом",
+  "value_hide-comments": "Скрыть комментарии на чарте",
+  "value_hide-menu": "Скрыть меню",
+  "value_language-auto": "системный",
+  "value_language-eng": "английский",
+  "value_language-rus": "русский",
+  "value_theme-auto": "системная",
+  "value_theme-dark": "тёмная",
+  "value_theme-light": "светлая"
 }
