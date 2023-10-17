@@ -1,36 +1,8 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_publish": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_published": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save-as": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_saved": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_warning-not-latest-version": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_publish": "Опубликовать",
+  "button_published": "Опубликовано",
+  "button_save": "Сохранить",
+  "button_save-as": "Сохранить как",
+  "button_saved": "Сохранено",
+  "toast_warning-not-latest-version": "Вы работаете не с самой последней версией чарта. Хотите применить изменения?"
 }
