@@ -1,36 +1,8 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_apply": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_entry-name-already-exists": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_placeholder": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_caption": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_rename-failed": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_apply": "Готово",
+  "button_cancel": "Отменить",
+  "label_entry-name-already-exists": "Название уже используется, придумайте другое",
+  "label_placeholder": "Введите новое имя",
+  "section_caption": "Переименовать",
+  "toast_rename-failed": "Не удалось переименовать"
 }
