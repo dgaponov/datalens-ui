@@ -1,28 +1,6 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_retry": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_field-error-text": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_field-error-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_retry": "Повторить",
+  "label_error": "Ошибка",
+  "label_field-error-text": "Выбранный тип поля для селектора не поддерживается. Пожалуйста, измените тип поля.",
+  "label_field-error-title": "Ошибка типа поля"
 }
