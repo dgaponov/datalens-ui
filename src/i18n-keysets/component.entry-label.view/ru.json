@@ -1,28 +1,6 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "label_draft": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_latest": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_locked": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_version": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "label_draft": "Draft",
+  "label_latest": "Latest",
+  "label_locked": "Locked by {{user}}",
+  "label_version": "v{{version}}"
 }
