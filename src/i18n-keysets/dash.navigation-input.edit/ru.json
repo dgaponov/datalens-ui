@@ -1,60 +1,14 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_choose": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_ok": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_open": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_use-link": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "context_fill-link": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_incorrect-source": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_incorrect-url": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_not-found": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_not-selector": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_wrong-workbook-id": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_cancel": "Отмена",
+  "button_choose": "Выбрать",
+  "button_ok": "OK",
+  "button_open": "Открыть",
+  "button_use-link": "Указать ссылку",
+  "context_fill-link": "Ссылка",
+  "toast_error": "Ошибка",
+  "toast_incorrect-source": "Некорректный тип источника",
+  "toast_incorrect-url": "Некорректный URL",
+  "toast_not-found": "Источник не найден",
+  "toast_not-selector": "Не является селектором",
+  "toast_wrong-workbook-id": "Выберите источник из текущего воркбука"
 }
