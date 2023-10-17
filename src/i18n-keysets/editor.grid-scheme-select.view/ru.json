@@ -1,16 +1,10 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "value_count-panes": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "value_count-panes": [
+    "{{count}} Панель",
+    "{{count}} Панели",
+    "{{count}} Панелей",
+    "Ноль Панелей",
+    "",
+    ""
+  ]
 }
