@@ -1,96 +1,23 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_actions": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_show-revisions-diff": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_current-changes": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_no-changes": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_progress-open": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_progress-publishing": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_progress-reset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_status-current": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_status-draft": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_status-published": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_status-tooltip-current": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_status-tooltip-draft": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_status-tooltip-not-actual": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_status-tooltip-published": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_tooltip-published": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_get-revisions-failed": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_warning-has-no-saved-changes": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_open-revision": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_publish-reset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_publish-revision": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_actions": "Actions",
+  "button_show-revisions-diff": "Посмотреть различия между версиями",
+  "label_current-changes": "Текущие изменения",
+  "label_no-changes": "Изменения отсутствуют",
+  "label_progress-open": "Открытие",
+  "label_progress-publishing": "Публикация",
+  "label_progress-reset": "Откатываем",
+  "label_status-current": "Текущая",
+  "label_status-draft": "Черновик",
+  "label_status-published": "Опубликовано",
+  "label_status-tooltip-current": "Текущая",
+  "label_status-tooltip-draft": "Черновик",
+  "label_status-tooltip-not-actual": "Неактуальная",
+  "label_status-tooltip-published": "Актуальная",
+  "label_tooltip-published": "Был опубликован",
+  "section_title": "История изменений",
+  "toast_get-revisions-failed": "Не удалось загрузить историю изменений",
+  "toast_warning-has-no-saved-changes": "Все не сохраненные изменения будут утеряны.",
+  "value_open-revision": "Открыть",
+  "value_publish-reset": "Откатить",
+  "value_publish-revision": "Опубликовать"
 }
