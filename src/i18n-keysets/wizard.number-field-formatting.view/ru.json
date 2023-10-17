@@ -1,76 +1,18 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "field_format": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_postfix": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_precision": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_prefix": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_rank-delimiter": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_units": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_format-number": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_format-percent": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_rank-delimiter-hide": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_rank-delimiter-show": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_unit-auto": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_unit-b": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_unit-k": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_unit-m": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_unit-null": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_unit-t": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "field_format": "Формат",
+  "field_postfix": "Постфикс",
+  "field_precision": "Знаков после запятой",
+  "field_prefix": "Префикс",
+  "field_rank-delimiter": "Отображать группы разрядов",
+  "field_units": "Размерность",
+  "value_format-number": "Число",
+  "value_format-percent": "Процент",
+  "value_rank-delimiter-hide": "Слитно",
+  "value_rank-delimiter-show": "С разделителем",
+  "value_unit-auto": "Авто",
+  "value_unit-b": "Миллиарды, B",
+  "value_unit-k": "Тысячи, K",
+  "value_unit-m": "Миллионы, M",
+  "value_unit-null": "Нет",
+  "value_unit-t": "Триллионы, T"
 }
