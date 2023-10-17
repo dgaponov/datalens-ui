@@ -1,128 +1,31 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_add-file": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_add-file-hint": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_retry-download": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_action-delete": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_action-rename": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_action-replace": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_columns-header": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_delimiter": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_delimiter-comma": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_delimiter-semicolon": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_delimiter-tab": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_downloaded-files": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_encoding": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_encoding-utf-8": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_encoding-utf-8-sig": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_encoding-windows-1251": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_file-download-failure": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_file-promo": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_filter-by-column": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_header-disabled": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_header-enabled": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_list-item-downloading": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_list-item-no-data": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_new-files": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_no-preview-data": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_settings-update-failure": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_source-download-failure": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_source-name": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_source-replacing": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_add-file": "Загрузить файлы",
+  "button_add-file-hint": "Не больше 10 файлов. Вес каждого из них не должен превышать 200 МБ. Поддерживаемые форматы: {{formats}}.",
+  "button_retry-download": "Повторить загрузку",
+  "label_action-delete": "Удалить",
+  "label_action-rename": "Переименовать",
+  "label_action-replace": "Заменить",
+  "label_columns-header": "Заголовок столбцов",
+  "label_delimiter": "Разделитель",
+  "label_delimiter-comma": "Запятая",
+  "label_delimiter-semicolon": "Точка с запятой",
+  "label_delimiter-tab": "Знак табуляции",
+  "label_downloaded-files": "Загруженные ранее",
+  "label_encoding": "Кодировка",
+  "label_encoding-utf-8": "utf-8",
+  "label_encoding-utf-8-sig": "utf-8-sig",
+  "label_encoding-windows-1251": "windows-1251",
+  "label_file-download-failure": "Не удалось загрузить файл",
+  "label_file-promo": "Чтобы создать подключение, загрузите файлы.<br></br>Поддерживаемые форматы: {{formats}}.",
+  "label_filter-by-column": "Поиск по столбцу",
+  "label_header-disabled": "Нет",
+  "label_header-enabled": "Да",
+  "label_list-item-downloading": "Загрузка...",
+  "label_list-item-no-data": "Нет данных",
+  "label_new-files": "Новые файлы",
+  "label_no-preview-data": "Данные для предпросмотра отсутствуют",
+  "label_settings-update-failure": "Не удалось обновить настройки",
+  "label_source-download-failure": "Не удалось загрузить источник",
+  "label_source-name": "Название источника",
+  "label_source-replacing": "Замена ..."
 }
