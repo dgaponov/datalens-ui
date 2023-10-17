@@ -1,28 +1,11 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_links": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_loading": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_updating": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_unsaved": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_edit-panel-chart": "Чарт",
+  "button_edit-panel-selector": "Селектор",
+  "button_edit-panel-text": "Текст",
+  "button_edit-panel-title": "Заголовок",
+  "button_edit-panel-paste": "Вставка",
+  "button_links": "Связи",
+  "label_loading": "Загрузка",
+  "label_updating": "Обновление",
+  "toast_unsaved": "На странице есть несохраненные изменения. Вы уверены?"
 }
