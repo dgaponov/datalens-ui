@@ -1,48 +1,11 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_back": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_field-validation": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_note": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_auto": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_percent": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_pixels": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_back": "Назад",
+  "button_cancel": "Отмена",
+  "button_save": "Сохранить",
+  "label_field-validation": "Некорректное значение ширины",
+  "label_note": "Селекторы, которые по ширине не помещаются в виджет, объединяющий группу селекторов, будут перенесены на следующую строку",
+  "label_title": "Настройки размещения селекторов в группе",
+  "value_auto": "Авто",
+  "value_percent": "%",
+  "value_pixels": "px"
 }
