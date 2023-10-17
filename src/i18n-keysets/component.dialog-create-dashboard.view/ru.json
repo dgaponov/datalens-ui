@@ -1,40 +1,9 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_apply": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_default-name": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_entry-name-already-exists": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_placeholder": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_caption": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_create-dashboard-failed": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_apply": "Создать",
+  "button_cancel": "Отменить",
+  "label_default-name": "Новый дашборд",
+  "label_entry-name-already-exists": "Название уже используется, придумайте другое",
+  "label_placeholder": "Название",
+  "section_caption": "Создать дашборд",
+  "toast_create-dashboard-failed": "Не удалось создать дашборд"
 }
