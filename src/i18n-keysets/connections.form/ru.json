@@ -36,7 +36,6 @@
   "field_auth-method": "Метод<br></br>аутентификации <tooltip></tooltip>",
   "field_cache-ttl-sec": "Время жизни кeша в секундах",
   "field_click-house-port": "Порт HTTP-интерфейса",
-  "field_clika": "Клика",
   "field_cloud-and-folder": "Облако и каталог",
   "field_cluster": "Кластер",
   "field_connection-title": "Название подключения",
