@@ -1,92 +1,22 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_edit-anyway": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_make-actual": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_open-actual": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_open-draft": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_open-revisions": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_already-editing-entry": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_by": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_chart": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_dash": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_draft-version": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_editor": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_entry-is-editing": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_entry-is-editing-by": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_later-warning-text": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_not-actual": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_of-chart": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_of-dash": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_of-editor": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_unexpected-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_cancel": "Отмена",
+  "button_edit-anyway": "Все равно редактировать",
+  "button_make-actual": "Сделать актуальной",
+  "button_open-actual": "Открыть актуальную",
+  "button_open-draft": "Открыть черновик",
+  "button_open-revisions": "Показать в истории",
+  "label_already-editing-entry": "Этот {{scope}} уже редактируется",
+  "label_by": "от",
+  "label_chart": "чарт",
+  "label_dash": "дашборд",
+  "label_draft-version": "Это черновая версия",
+  "label_editor": "редактор",
+  "label_entry-is-editing": "{{scope}} уже редактируется",
+  "label_entry-is-editing-by": "уже редактирует этот {{scope}}",
+  "label_later-warning-text": "История изменений содержит черновую версию {{scope}}",
+  "label_not-actual": "Это неактуальная версия",
+  "label_of-chart": "чарта",
+  "label_of-dash": "дашборда",
+  "label_of-editor": "редактора",
+  "label_unexpected-error": "Ошибка"
 }
