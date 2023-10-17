@@ -1,32 +1,7 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "label_any-questions": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_full-docs": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_no-module-docs": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_common-information": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_modules": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "label_any-questions": "Остались вопросы?",
+  "label_full-docs": "Полная документация доступна по <link>ссылке</link>.",
+  "label_no-module-docs": "Документация для данного модуля отсутствует",
+  "section_common-information": "Общая информация",
+  "section_modules": "Модули"
 }
