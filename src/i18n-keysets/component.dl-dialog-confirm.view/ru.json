@@ -1,32 +1,7 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button-save-chart_apply": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button-save-chart_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_apply": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "confirm-header": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button-save-chart_apply": "Сохранить и продолжить",
+  "button-save-chart_cancel": "Отмена",
+  "button_apply": "Да",
+  "button_cancel": "Нет",
+  "confirm-header": "Подтвердите действие"
 }
