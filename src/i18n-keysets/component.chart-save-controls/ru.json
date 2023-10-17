@@ -1,36 +1,8 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_apply": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save-as-draft": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save-as-new": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save-as-published": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_saved": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_apply": "Применить",
+  "button_save": "Сохранить",
+  "button_save-as-draft": "Сохранить как черновик",
+  "button_save-as-new": "Сохранить как копию",
+  "button_save-as-published": "Сохранить и сделать актуальной",
+  "button_saved": "Сохранено"
 }
