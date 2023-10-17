@@ -1,108 +1,26 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_apply": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_close": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_delete-cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_delete-confirm": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_delete-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_add-color": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_add-color-disabled": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_add-palette": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-custom-color-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_default-palette": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_delete-message": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_delete-palette": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_edit-palette": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_gradient-palette-description": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_gradient-palette-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_header-caption": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_palette-description": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_palette-name": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_palette-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_create-failed": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_delete-failed": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_update-failed": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_apply": "Применить",
+  "button_cancel": "Отменить",
+  "button_close": "Закрыть",
+  "button_delete-cancel": "Отмена",
+  "button_delete-confirm": "Удалить ",
+  "button_delete-title": "Удалить палитру",
+  "button_save": "Сохранить",
+  "label_add-color": "Добавить цвет",
+  "label_add-color-disabled": "Невозможно добавить более {{count}} цветов",
+  "label_add-palette": "Добавить палитру",
+  "label_bars-custom-color-error": "Для обозначения цвета используйте HEX-код",
+  "label_default-palette": "Использовать по умолчанию",
+  "label_delete-message": "Вы собираетесь удалить палитру. Чарты которые её используют переключатся на системную палитру. Вы уверены что хотите удалить?",
+  "label_delete-palette": "Удалить",
+  "label_edit-palette": "Редактировать",
+  "label_gradient-palette-description": "Используются с числовыми показателями.",
+  "label_gradient-palette-title": "Градиентные цветовые палитры",
+  "label_header-caption": "Настройка цветовых палитр",
+  "label_palette-description": "Используются для дискретных значений: названий показателей, значений измерений.",
+  "label_palette-name": "Название палитры",
+  "label_palette-title": "Цветовые палитры",
+  "toast_create-failed": "Не удалось создать палитру",
+  "toast_delete-failed": "Не удалось удалить палитру",
+  "toast_update-failed": "Не удалось обновить палитру"
 }
