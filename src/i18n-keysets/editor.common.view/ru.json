@@ -1,48 +1,10 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_retry": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_secrets": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_show-preview": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_load-failed": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_new-chart": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_without-template": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_choose-template": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_logo-text": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_unsaved": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_retry": "Повторить",
+  "button_secrets": "Добавить секрет",
+  "button_show-preview": "Выполнить",
+  "label_load-failed": "Не удалось загрузить",
+  "label_new-chart": "Новый чарт",
+  "label_without-template": "Без шаблона",
+  "section_choose-template": "Выберите шаблон",
+  "toast_unsaved": "На странице есть несохраненные изменения. Вы уверены?"
 }
