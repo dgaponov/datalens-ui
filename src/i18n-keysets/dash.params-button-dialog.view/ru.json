@@ -1,20 +1,4 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "context_invalid-format": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "context_restricted-param": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "context_invalid-format": "Некорректный формат. Ключ не будет сохранен.",
+  "context_restricted-param": "Зарезервированное имя. Ключ не будет сохранен."
 }
