@@ -1,116 +1,28 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "action_access": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_add": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_add-demo-workbook": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_add-learning-materials-workbook": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_clear-filters": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_copy": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_create": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_create-collection": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_create-workbook": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_delete": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_edit": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_move": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_add-demo-workbook": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_add-learning-materials-workbook": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_delete-collection": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_delete-workbook": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_empty-list": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_last-modified": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_not-found": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_root-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_create-first": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_delete-collection": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_delete-workbook": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_incorrect-filters": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "action_access": "Доступ",
+  "action_add": "Добавить",
+  "action_add-demo-workbook": "Добавить пример воркбука",
+  "action_add-learning-materials-workbook": "Добавить учебные материалы",
+  "action_cancel": "Отменить",
+  "action_clear-filters": "Очистить фильтры",
+  "action_copy": "Копировать",
+  "action_create": "Создать",
+  "action_create-collection": "Создать коллекцию",
+  "action_create-workbook": "Создать воркбук",
+  "action_delete": "Удалить",
+  "action_edit": "Редактировать",
+  "action_move": "Переместить",
+  "label_add-demo-workbook": "Добавить пример воркбука",
+  "label_add-learning-materials-workbook": "Добавить учебные материалы",
+  "label_delete-collection": "Удаление коллекции",
+  "label_delete-workbook": "Удаление воркбука",
+  "label_empty-list": "Нет коллекций и воркбуков",
+  "label_last-modified": "Последнее изменение",
+  "label_not-found": "Ничего не найдено",
+  "label_root-title": "Коллекции и воркбуки",
+  "label_title": "Название",
+  "section_create-first": "Начните выстраивать иерархию ресурсов, например, с воркбука",
+  "section_delete-collection": "Вы действительно хотите удалить коллекцию?",
+  "section_delete-workbook": "Вы действительно хотите удалить {{workbook}}?",
+  "section_incorrect-filters": "Попробуйте указать другие значения в фильтрах"
 }
