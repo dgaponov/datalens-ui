@@ -1,36 +1,8 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_apply": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_chart-settings": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_header": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_hide": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_show": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_apply": "Применить",
+  "button_cancel": "Отменить",
+  "label_chart-settings": "Настройки чарта",
+  "label_header": "Заголовок",
+  "label_hide": "Скрыть",
+  "label_show": "Показать"
 }
