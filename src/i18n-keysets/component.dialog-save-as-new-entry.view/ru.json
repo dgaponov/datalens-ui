@@ -1,44 +1,10 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_apply": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_copy": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_default-name": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_entry-name-already-exists": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_placeholder": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_caption": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_save-as-new-failed": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_apply": "Применить",
+  "button_cancel": "Отменить",
+  "label_copy": "копия",
+  "label_default-name": "Новый",
+  "label_entry-name-already-exists": "Название уже используется, придумайте другое",
+  "label_placeholder": "Введите имя",
+  "section_caption": "Сохранить как новый",
+  "toast_save-as-new-failed": "Не удалось сохранить как новый"
 }
