@@ -1,76 +1,18 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "action_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_copy": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_create": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_create-collection": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_create-workbook": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_move": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_copy": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_copy-denied-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_description": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_empty-collection": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_move": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_move-denied-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_edit-collection": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_save": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_edit-workbook": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "action_cancel": "Отменить",
+  "action_copy": "Копировать",
+  "action_create": "Создать",
+  "action_create-collection": "Создать коллекцию",
+  "action_create-workbook": "Создать воркбук",
+  "action_edit-collection": "Редактирование коллекции",
+  "action_save": "Сохранить",
+  "action_edit-workbook": "Редактирование воркбука",
+  "action_move": "Переместить",
+  "label_copy": "Куда копировать",
+  "label_copy-denied-title": "Недостаточно прав для копирования",
+  "label_description": "Описание",
+  "label_empty-collection": "В коллекции пусто или не удалось ничего найти по условиям в фильтрах",
+  "label_move": "Куда переместить",
+  "label_move-denied-title": "Недостаточно прав для перемещения",
+  "label_title": "Название"
 }
