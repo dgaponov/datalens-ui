@@ -1,72 +1,22 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
+  "action_cancel": "Отменить",
+  "action_move": "Перенести",
+  "action_show-all": "Показать все",
+  "label_charts": "Чарты",
+  "label_connections": "Подключения",
+  "md_label_copy-warning": "Объект и все связанные объекты будут перенесены из папок в воркбук. Вернуть объекты из воркбука в папки невозможно. После переноса вы станете администратором воркбука и сможете назначать права доступа для других пользователей и групп пользователей",
+  "label_current-entry": "Выбранный объект",
+  "label_dashboards": "Дашборды",
+  "label_datasets": "Датасеты",
+  "label_entry-already-in-workbook": "Перенесен с другими объектами",
+  "label_linked-objects": "Связанные объекты",
+  "label_no-linked-objects": "Пусто",
+  "label_objects": [
+    "{{count}} объект",
+    "{{count}} объекта",
+    "{{count}} объектов",
+    "0 объектов"
   ],
-  "status": {
-    "action_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_move": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "action_show-all": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_charts": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_connections": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "md_label_copy-warning": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_current-entry": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_dashboards": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_datasets": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_entry-already-in-workbook": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_linked-objects": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_no-linked-objects": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_objects": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_unknown-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "label_unknown-error": "При переносе возникла ошибка. Пожалуйста, повторите попытку позже.",
+  "title": "Перенос в воркбук"
 }
