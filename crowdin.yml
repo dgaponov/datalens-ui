@@ -1,3 +1,3 @@
 files:
-  - source: /src/i18n-keysets/**/en.json
+  - source: /src/i18n-keysets/**/*.*
     translation: /src/i18n-keysets/**/%two_letters_code%.json
