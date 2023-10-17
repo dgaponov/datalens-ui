@@ -1,1444 +1,361 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "add_field_item": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "add_hierarchy_item": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "add_parameter_item": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_access-rights": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_add-dataset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_apply": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_apply-filter": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_choose-dataset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_choose-visualization": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_clear": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_copy-link": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_datasets-settings": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_discard": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_duplicate": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_edit": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_edit-built-in": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_remove": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_remove-dataset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_replace-dataset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_reset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_retry": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save-and-publish": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save-as": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save-as-draft": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save-as-editor-script": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_save-as-new": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_saved": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_select": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_select-all": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_to-dataset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_toggle-fullscreen": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_turn-into-formula": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "confirm_chart-save_message": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "confirm_chart-save_message_alerts": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "dataset-selector_label": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "field_search": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_2-point": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_3-point": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_absolute": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_absolute-date": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_add-link": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_add-value": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_aggregation": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_all-lines": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_angle": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_array_float": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_array_int": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_array_str": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_as-0": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_auto": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_autoscale": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_avg": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_axis-format-by-field": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_axis-format-settings": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_axis-hide-labels": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_axis-mode": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_axis-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_axis-title-manual-warning": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_axis-type": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_background-color-field-selector": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_background-settings": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-align": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-align-info": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-align-left": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-align-right": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-color": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-custom-color-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-in-totals": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-labels": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-negative-color": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-positive-color": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-scale": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_bars-switcher": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_blue": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_blue-gray-red": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_blue-yellow-red": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_boolean": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_borders": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_chart-settings": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_chartkit-menu-open-in-new-tab": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_choose-from-list": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_choose-lines": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_choose-visualization-type": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_colors-overflow": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_colors-settings": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_combined-chart-axis-format-by-field": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_connect": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_continuous": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_count": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_countunique": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_cyan": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_dataset-blank": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_datasets": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_date": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_date-format": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_date-group": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_date-group-preaggregated": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_date-mode": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_datetime": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_datetimetz": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_day": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_dayofweek": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_default": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_default-period": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_delete-all-filters-action": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_dialog-column-info-text": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_dialog-radius": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_dialog-radius-max": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_dialog-radius-min": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_direction": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_disabled": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_discrete": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_enabled": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_enter-manualy": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_enter-number": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_error-connection-no-access-rights": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_error-dataset-no-access-rights": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_error-dataset-not-found": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_error-dataset-server-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_error-dataset-unknown-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_error-loading-filter-values": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_error-remove-field": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_error-widget-no-access": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_error-widget-not-found": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_error-widget-save": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_error-widget-unknown-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_feed": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_field-has-wrong-type": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_field-invalid": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_field-more-than-one-hierarchy": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_field-not-exist": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_fields-overflow": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_fill-color-type": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_filter-all-values": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_filter-from-dashboard": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_float": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_genericdatetime": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_geopoint": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_geopolygon": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_golden": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_gradient": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_gradient-2": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_gradient-3": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_gradient-type": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_gray": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_green": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_green-blue": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_grid": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_grid-step": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_groupping": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_header": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_hide": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_holidays": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_horizontal": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_hour": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_ignore": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_integer": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_invalid-name": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_items-available": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_items-selected": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_label-hide-mode": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_label-mode": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_labels-overflow": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_labels-position": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_labels-view": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_layer-remove-confirmation": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_layer-settings": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_layers-overflow": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_legend": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_limit": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_limit-input-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_limit-message": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_linear": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_link-failed": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_links": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_links-between-sources": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_logarithmic": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_manual": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_markup": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_max": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_message-link-copied": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_min": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_minute": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_month": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_navigator": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_new-layer": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_new-widget": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_no": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_no-colors-setup-for-hierarchy": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_no-links": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_no-rights-text": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_no-rights-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_no-shapes-setup-for-hierarchy": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_none": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_nulls": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_oceanic": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_off": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_on": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_one-color": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_orange-blue-green": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_orange-gray-blue": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_orange-violet-blue": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_orange-yellow": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_order-overflow": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_original-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_overlap": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_overriden-from-dashboard": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_pagination": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_palette": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_part": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_percent": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_pink-gray-green": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_pivot-fallback": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_pivot-measure-sort": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_pivot-table-title-dialog-column-settings": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_pixels-shortname": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_polyline-points": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_preview-dataset-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_preview-dataset-stub": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_quarter": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_red": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_red-blue": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_red-orange-green": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_relative-date": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_relative-from": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_relative-to": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_rename": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_reversed": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_save-widget": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_scale": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_scale-0-max": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_scale-min-max": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_second": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_segments-overflow": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_settings": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_shapes-overflow": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_shapes-settings": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_short-max": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_short-min": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_should-be-less-than-middle": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_should-be-less-than-right": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_show": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_sort-overflow": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_string": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_sub-totals-switcher": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_sum": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_table-header-display-mode": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_thresholds": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_time-interval": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_title-dialog-column-settings": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_tooltip-sum": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_tooltip-thresholds": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_totals": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_traffic-light": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_tree_float": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_tree_int": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_tree_str": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_trunc": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_two-color": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_type": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_type-preaggregated": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_value": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_vertical": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_violet": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_violet-blue-green": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_violet-orange": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-area": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-area-100p": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-bar": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-bar-100p": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-column": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-column-100p": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-combined-chart": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-donut": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-flat-table": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-geolayer": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-geopoint": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-geopoint-with-cluster": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-geopolygon": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-heatmap": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-line": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-metric": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-pie": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-pivot-table": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-polyline": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-scatter": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-treemap": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-types-all": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-types-column": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-types-line": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-types-pie": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_visualization-types-table": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_week": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_widget-name-copy": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_without-group": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_year": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_yellow": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_yellow-green-blue": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_yes": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_available": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_color": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_colors": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_columns": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_common-filters": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_dimensions": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_filters": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_filters_from_dashboard": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_geodata": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_geopoint": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_geopolygon": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_grouping": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_hierarchy": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_labels": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_layer-filters": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_measure": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_measures": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_obligatory-filters": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_order": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_parameters": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_parameters_from_dashboard": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_points": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_points_size": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_polyline": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_rows": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_scatter": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_segments": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_shapes": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_size": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_sort": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_tooltips": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_x": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_y": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_y2": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_confirm-remove-item": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_error-action-details-label": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_get-publication-status-failed_error-action-details-label": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_unsaved": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_wizard-dataset-validation-failure": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tooltip_backend-pivot_unavailable": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tooltip_dataset-fetch-failed": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tooltip_dataset-fetch-failed-details-label": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tooltip_filter_item": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tooltip_filters_from_dashboard": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tooltip_logarithmic-axis": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tooltip_no-available-fields": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tooltip_pagination_unavailable": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tooltip_parameter-changed-icon": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tooltip_tree-pagination_unavailable": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tooltip_tree-total_unavailable": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tooltip_zero-to-max-scale": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_geotype-select-geopoint": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_geotype-select-geopoint-with-cluster": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_geotype-select-geopolygon": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_geotype-select-heatmap": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_geotype-select-polyline": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "add_field_item": "Поле",
+  "add_hierarchy_item": "Иерархия",
+  "add_parameter_item": "Параметр",
+  "button_access-rights": "Запросить права",
+  "button_add-dataset": "Добавить датасет",
+  "button_apply": "Применить",
+  "button_apply-filter": "Применить фильтр",
+  "button_cancel": "Отменить",
+  "button_choose-dataset": "Выберите датасет",
+  "button_choose-visualization": "Выберите тип чарта",
+  "button_clear": "Очистить",
+  "button_copy-link": "Копировать ссылку",
+  "button_datasets-settings": "Настройки датасетов",
+  "button_discard": "Сбросить",
+  "button_duplicate": "Дублировать",
+  "button_edit": "Редактировать",
+  "button_edit-built-in": "Редактировать",
+  "button_remove": "Удалить",
+  "button_remove-dataset": "Удалить датасет",
+  "button_replace-dataset": "Заменить датасет",
+  "button_reset": "Сбросить",
+  "button_retry": "Повторить",
+  "button_save": "Сохранить",
+  "button_save-and-publish": "Сохранить и сделать актуальной",
+  "button_save-as": "Сохранить как",
+  "button_save-as-draft": "Сохранить как черновик",
+  "button_save-as-editor-script": "Сохранить как скрипт в Editor",
+  "button_save-as-new": "Сохранить как новый чарт",
+  "button_saved": "Сохранено",
+  "button_select": "Выбрать",
+  "button_select-all": "Выбрать все",
+  "button_to-dataset": "Перейти к датасету",
+  "button_toggle-fullscreen": "На весь экран",
+  "button_turn-into-formula": "Преобразовать в формулу",
+  "confirm_chart-save_message": "Чтобы экспортировать изображение, сохраните изменения в чарте.",
+  "confirm_chart-save_message_alerts": "Чтобы настроить алерты, сначала сохраните изменения в чарте.",
+  "dataset-selector_label": "Датасет:",
+  "field_search": "Поиск",
+  "label_2-point": "Двухцветный",
+  "label_3-point": "Трехцветный",
+  "label_absolute": "Абсолютное",
+  "label_absolute-date": "Выбрать в календаре",
+  "label_add-link": "Добавить связь",
+  "label_add-value": "Добавить значение",
+  "label_aggregation": "Агрегация",
+  "label_all-lines": "Все линии",
+  "label_angle": "Под углом",
+  "label_array_float": "Массив дробных чисел",
+  "label_array_int": "Массив целых чисел",
+  "label_array_str": "Массив строк",
+  "label_as-0": "Отображать как 0",
+  "label_auto": "Авто",
+  "label_autoscale": "Автомасштаб",
+  "label_avg": "Среднее",
+  "label_axis-format-by-field": "По первому полю на оси {{axisName}}",
+  "label_axis-format-settings": "Форматирование оси",
+  "label_axis-hide-labels": "Подписи",
+  "label_axis-mode": "Режим отображения",
+  "label_axis-title": "Название оси",
+  "label_axis-title-manual-warning": "Вы используете сплит, поэтому название оси недоступно для редактирования",
+  "label_axis-type": "Тип оси",
+  "label_background-color-field-selector": "По полю",
+  "label_background-settings": "Заливка столбца",
+  "label_bars-align": "Выравнивание",
+  "label_bars-align-info": "Выравнивание слева или справа применяется только в случаях, когда все числа в столбце положительные или  отрицательные",
+  "label_bars-align-left": "Слева",
+  "label_bars-align-right": "Справа",
+  "label_bars-color": "Цвет",
+  "label_bars-custom-color-error": "Используйте формат HEX",
+  "label_bars-in-totals": "Отображать в итогах",
+  "label_bars-labels": "Отображать значения",
+  "label_bars-negative-color": "Отрицательные значения",
+  "label_bars-positive-color": "Положительные значения",
+  "label_bars-scale": "Масштаб",
+  "label_bars-switcher": "Линейный индикатор",
+  "label_blue": "Синий (оттенки)",
+  "label_blue-gray-red": "Синий-Серый-Красный",
+  "label_blue-yellow-red": "Синий-Желтый-Красный",
+  "label_boolean": "Логический",
+  "label_borders": "Границы",
+  "label_chart-settings": "Настройки чарта",
+  "label_chartkit-menu-open-in-new-tab": "Открыть в новой вкладке",
+  "label_choose-from-list": "Выбрать значение из списка",
+  "label_choose-lines": "Выбрать линии",
+  "label_choose-visualization-type": "Тип чарта",
+  "label_colors-overflow": "Установлено максимально доступное количество цветов",
+  "label_colors-settings": "Настройки цветов",
+  "label_combined-chart-axis-format-by-field": "По первому полю в верхнем слое",
+  "label_connect": "Соединять",
+  "label_continuous": "Непрерывный",
+  "label_count": "Количество",
+  "label_countunique": "Количество уникальных",
+  "label_cyan": "Бирюзовый (оттенки)",
+  "label_d3-fallback": "Highcharts",
+  "label_dataset-blank": "Для начала работы выберите датасет",
+  "label_datasets": "Датасеты",
+  "label_date": "Дата",
+  "label_date-format": "Формат",
+  "label_date-group": "Группировка",
+  "label_date-group-preaggregated": "Группировка (до агрегации)",
+  "label_date-mode": "Режим даты",
+  "label_datetime": "Дата и время (устаревший)",
+  "label_datetimetz": "Дата и время с часовым поясом",
+  "label_day": "День",
+  "label_dayofweek": "День недели",
+  "label_default": "По умолчанию",
+  "label_default-period": "Период по умолчанию",
+  "label_delete-all-filters-action": "Удалить все фильтры в секции",
+  "label_dialog-column-info-text": "Общая ширина таблицы всегда занимает 100% доступного пространства вне зависимости от указанной ширины отдельных столбцов.",
+  "label_dialog-radius": "Размер точек",
+  "label_dialog-radius-max": "Максимальный размер точек",
+  "label_dialog-radius-min": "Минимальный размер точек",
+  "label_direction": "Направление",
+  "label_disabled": "Выключена",
+  "label_discrete": "Дискретный",
+  "label_enabled": "Включена",
+  "label_enter-manualy": "Ввести значение вручную",
+  "label_enter-number": "Введите число",
+  "label_error-connection-no-access-rights": "У вас нет доступа к подключению",
+  "label_error-dataset-no-access-rights": "У вас нет доступа к датасету или к его подключению",
+  "label_error-dataset-not-found": "Датасет не найден",
+  "label_error-dataset-server-error": "Ошибка: не удалось загрузить датасет",
+  "label_error-dataset-unknown-error": "Ошибка: не удалось загрузить датасет",
+  "label_error-loading-filter-values": "Ошибка: не удалось загрузить значения для фильтра",
+  "label_error-remove-field": "Ошибка: нельзя удалить поле, используемое в формуле",
+  "label_error-widget-no-access": "Нет доступа к чарту",
+  "label_error-widget-not-found": "Чарт не найден",
+  "label_error-widget-save": "Ошибка: не удалось сохранить чарт",
+  "label_error-widget-unknown-error": "Произошла ошибка",
+  "label_feed": "Фид комментариев",
+  "label_field-has-wrong-type": "Поле имеет недопустимый тип",
+  "label_field-invalid": "Поле содержит ошибки",
+  "label_field-more-than-one-hierarchy": "Нельзя применить больше одной иерархии",
+  "label_field-not-exist": "Поле отсутствует в датасете",
+  "label_fields-overflow": "Установлено максимально доступное количество полей",
+  "label_fill-color-type": "Тип заливки",
+  "label_filter-all-values": "Все",
+  "label_filter-from-dashboard": "фильтр с дашборда",
+  "label_float": "Дробное число",
+  "label_genericdatetime": "Дата и время",
+  "label_geopoint": "Геоточка",
+  "label_geopolygon": "Геополигон",
+  "label_golden": "Голден",
+  "label_gradient": "Градиент",
+  "label_gradient-2": "Градиент-2",
+  "label_gradient-3": "Градиент-3",
+  "label_gradient-type": "Тип градиента",
+  "label_gray": "Серый (оттенки)",
+  "label_green": "Зеленый (оттенки)",
+  "label_green-blue": "Зеленый-Синий",
+  "label_grid": "Сетка",
+  "label_grid-step": "Шаг сетки",
+  "label_groupping": "Группировка",
+  "label_header": "Заголовок",
+  "label_hide": "Скрыть",
+  "label_holidays": "Выходные на графике",
+  "label_horizontal": "Горизонтальные",
+  "label_hour": "Час",
+  "label_ignore": "Не отображать",
+  "label_integer": "Целое число",
+  "label_invalid-name": "Чарт с таким именем уже сущестует",
+  "label_items-available": "Доступны",
+  "label_items-selected": "Выбраны",
+  "label_label-hide-mode": "Подпись",
+  "label_label-mode": "Значение подписи",
+  "label_labels-overflow": "Установлено максимально доступное количество подписей",
+  "label_labels-position": "Подпись внутри",
+  "label_labels-view": "Вид подписей",
+  "label_layer-remove-confirmation": "Удалить слой?",
+  "label_layer-settings": "Настройки слоя",
+  "label_layers-overflow": "Установлено максимально доступное количество слоев",
+  "label_legend": "Легенда",
+  "label_limit": "Лимит",
+  "label_limit-input-error": "Введите значение от {{min}} до {{max}}",
+  "label_limit-message": "Выводится только первая тысяча значений",
+  "label_linear": "Линейная",
+  "label_link-failed": "Измерение не участвует в связи датасетов",
+  "label_links": "Связи",
+  "label_links-between-sources": "Связи между датасетами",
+  "label_logarithmic": "Логарифмическая",
+  "label_manual": "Вручную",
+  "label_markup": "Разметка",
+  "label_max": "Максимум",
+  "label_message-link-copied": "Ссылка скопирована",
+  "label_min": "Минимум",
+  "label_minute": "Минута",
+  "label_month": "Месяц",
+  "label_navigator": "Навигатор",
+  "label_new-layer": "Слой",
+  "label_new-widget": "Новый чарт",
+  "label_no": "Нет",
+  "label_no-colors-setup-for-hierarchy": "Определение цветов для иерархии не доступно",
+  "label_no-links": "Связи между датасетами пока отсутствуют",
+  "label_no-rights-text": "Чарт доступен в режиме «Только для чтения». Запросите права на редактирование  или сохраните изменения новым чартом",
+  "label_no-rights-title": "Нет прав для редактирования",
+  "label_no-shapes-setup-for-hierarchy": "Определение форм для иерархии не доступно",
+  "label_none": "Нет",
+  "label_nulls": "Пустые значения (null)",
+  "label_oceanic": "Океаник",
+  "label_off": "Выкл",
+  "label_on": "Вкл",
+  "label_one-color": "Один цвет",
+  "label_orange-blue-green": "Оранжевый-Голубой-Салатовый",
+  "label_orange-gray-blue": "Оранжевый-Серый-Голубой",
+  "label_orange-violet-blue": "Оранжевый-Фиолетовый-Голубой",
+  "label_orange-yellow": "Оранжевый-Желтый",
+  "label_order-overflow": "Установлено максимально доступное количество порядков для точек",
+  "label_original-title": "Название в датасете",
+  "label_overlap": "Перекрытие подписей",
+  "label_overriden-from-dashboard": "перезаписан с дашборда",
+  "label_pagination": "Пагинация",
+  "label_palette": "Палитра",
+  "label_part": "Часть даты",
+  "label_percent": "В процентах",
+  "label_pink-gray-green": "Сиреневый-Серый-Салатовый",
+  "label_pivot-fallback": "Cтарые сводные таблицы",
+  "label_pivot-measure-sort": "Сортировка по показателю влияет только на запрос в источник, но не на сводную таблицу.",
+  "label_pivot-table-title-dialog-column-settings": "Ширина столбцов и строк",
+  "label_pixels-shortname": "px",
+  "label_polyline-points": "Точки полилинии",
+  "label_preview-dataset-error": "Невозможно отобразить график",
+  "label_preview-dataset-stub": "Перетащите измерения и показатели в соответствующие секции, чтобы построить визуализацию",
+  "label_quarter": "Квартал",
+  "label_red": "Красный (оттенки)",
+  "label_red-blue": "Красный-Синий",
+  "label_red-orange-green": "Красный-Желтый-Зеленый",
+  "label_relative-date": "Указать относительно сегодняшнего дня",
+  "label_relative-from": "Начало, дней назад",
+  "label_relative-to": "Конец, дней назад",
+  "label_rename": "Переименовать",
+  "label_reversed": "В обратном направлении",
+  "label_save-widget": "Сохранить чарт",
+  "label_scale": "Масштабирование",
+  "label_scale-0-max": "от 0 до max",
+  "label_scale-min-max": "от min до max",
+  "label_second": "Секунда",
+  "label_segments-overflow": "Установлено максимально доступное количество сплитов",
+  "label_settings": "Настройки",
+  "label_shapes-overflow": "Установлено максимально доступное количество форм",
+  "label_shapes-settings": "Настройки форм",
+  "label_short-max": "макс",
+  "label_short-min": "мин",
+  "label_should-be-less-than-middle": "Значение должно быть меньше среднего",
+  "label_should-be-less-than-right": "Значение должно быть меньше максимального",
+  "label_show": "Показать",
+  "label_sort-overflow": "Установлено максимально доступное количество сортировок",
+  "label_string": "Строка",
+  "label_sub-totals-switcher": "Подытоги",
+  "label_sum": "Сумма",
+  "label_table-header-display-mode": "Режим отображения",
+  "label_thresholds": "Задать пороговые значения",
+  "label_time-interval": "Временной интервал",
+  "label_title": "Название",
+  "label_title-dialog-column-settings": "Ширина столбцов",
+  "label_tooltip-sum": "Сумма в тултипах",
+  "label_tooltip-thresholds": "Вы можете вручную установить пороговые числовые значения, которые будут соответствовать каждому цвету",
+  "label_totals": "Итоги",
+  "label_traffic-light": "Траффик Лайт",
+  "label_tree_float": "Дерево дробных чисел",
+  "label_tree_int": "Дерево целых чисел",
+  "label_tree_str": "Дерево строк",
+  "label_trunc": "Округление",
+  "label_two-color": "Два цвета",
+  "label_type": "Тип",
+  "label_type-preaggregated": "Тип (до агрегации)",
+  "label_value": "Значение",
+  "label_vertical": "Вертикальные",
+  "label_violet": "Фиолетовый (оттенки)",
+  "label_violet-blue-green": "Фиолетовый-Синий-Салатовый",
+  "label_violet-orange": "Сиреневый-Красный",
+  "label_visualization-area": "Накопительная диаграмма с областями",
+  "label_visualization-area-100p": "Нормированная диаграмма с областями",
+  "label_visualization-bar": "Линейчатая диаграмма",
+  "label_visualization-bar-100p": "Нормированная линейчатая диаграмма",
+  "label_visualization-column": "Столбчатая диаграмма",
+  "label_visualization-column-100p": "Нормированная cтолбчатая диаграмма",
+  "label_visualization-combined-chart": "Комбинированная диаграмма",
+  "label_visualization-donut": "Кольцевая диаграмма",
+  "label_visualization-flat-table": "Таблица",
+  "label_visualization-geolayer": "Карта",
+  "label_visualization-geopoint": "Точки",
+  "label_visualization-geopoint-with-cluster": "Точки с кластеризацией",
+  "label_visualization-geopolygon": "Полигоны",
+  "label_visualization-heatmap": "Теплокарта",
+  "label_visualization-line": "Линейная диаграмма",
+  "label_visualization-metric": "Индикатор",
+  "label_visualization-pie": "Круговая диаграмма",
+  "label_visualization-pivot-table": "Сводная таблица",
+  "label_visualization-polyline": "Полилинии",
+  "label_visualization-scatter": "Точечная диаграмма",
+  "label_visualization-treemap": "Древовидная диаграмма",
+  "label_visualization-types-all": "Все",
+  "label_visualization-types-column": "Столбчатые",
+  "label_visualization-types-line": "Графики",
+  "label_visualization-types-pie": "Круговые",
+  "label_visualization-types-table": "Таблицы",
+  "label_week": "Неделя",
+  "label_widget-name-copy": "{{name}} - копия",
+  "label_without-group": "Без группировки",
+  "label_year": "Год",
+  "label_yellow": "Желтый (оттенки)",
+  "label_yellow-green-blue": "Желтый-Салатовый-Голубой",
+  "label_yes": "Да",
+  "section_available": "Доступные",
+  "section_color": "Цвет",
+  "section_colors": "Цвета",
+  "section_columns": "Столбцы",
+  "section_common-filters": "Общие фильтры",
+  "section_dimensions": "Измерения",
+  "section_filters": "Фильтры",
+  "section_filters_from_dashboard": "Фильтры с дашборда",
+  "section_geodata": "Геоданные",
+  "section_geopoint": "Геоточки",
+  "section_geopolygon": "Геополигоны",
+  "section_grouping": "Группировка",
+  "section_hierarchy": "Иерархии",
+  "section_labels": "Подписи",
+  "section_layer-filters": "Фильтры слоя",
+  "section_measure": "Показатель",
+  "section_measures": "Показатели",
+  "section_obligatory-filters": "Обязательные фильтры",
+  "section_order": "Порядок",
+  "section_parameters": "Параметры",
+  "section_parameters_from_dashboard": "Параметры с дашборда",
+  "section_points": "Точки",
+  "section_points_size": "Размер точек",
+  "section_polyline": "Полилиния",
+  "section_rows": "Строки",
+  "section_scatter": "Точки",
+  "section_segments": "Сплит",
+  "section_shapes": "Формы",
+  "section_size": "Размер",
+  "section_sort": "Сортировка",
+  "section_tooltips": "Тултипы",
+  "section_x": "X",
+  "section_y": "Y",
+  "section_y2": "Y2",
+  "toast_confirm-remove-item": "Удаление нельзя будет отменить. Вы уверены?",
+  "toast_error-action-details-label": "Подробнее",
+  "toast_get-publication-status-failed_error-action-details-label": "Подробнее",
+  "toast_unsaved": "На странице есть несохраненные изменения. Вы уверены?",
+  "toast_wizard-dataset-validation-failure": "Ошибка: датасет не прошел валидацию",
+  "tooltip_backend-pivot_unavailable": "Новые сводные таблицы недоступны для мультидатасетных чартов",
+  "tooltip_dataset-fetch-failed": "Не удалось загрузить датасет",
+  "tooltip_dataset-fetch-failed-details-label": "Подробнее",
+  "tooltip_filter_item": "Чтобы применить фильтр, удалите такое же поле из секции Фильтры с дашборда.",
+  "tooltip_filters_from_dashboard": "К чарту применены фильтры с дашборда. Эти фильтры не будут сохранены в чарте.",
+  "tooltip_logarithmic-axis": "Шкала от 0 не может быть логарифмической",
+  "tooltip_no-available-fields": "Нет подходящих полей для добавления",
+  "tooltip_pagination_unavailable": "Для мультидатасетных чартов пагинация недоступна",
+  "tooltip_parameter-changed-icon": "Значение параметра изменено",
+  "tooltip_tree-pagination_unavailable": "Пагинация недоступна в таблице с деревьями",
+  "tooltip_tree-total_unavailable": "Итоги недоступны в таблице с деревьями",
+  "tooltip_zero-to-max-scale": "Логарифмическая шкала не может содержать значения 0",
+  "value_geotype-select-geopoint": "Точки (Геоточки)",
+  "value_geotype-select-geopoint-with-cluster": "Точки с кластеризацией (Геоточки)",
+  "value_geotype-select-geopolygon": "Полигоны (Геoполигоны)",
+  "value_geotype-select-heatmap": "Теплокарта (Геоточки)",
+  "value_geotype-select-polyline": "Полилинии (Геоточки)"
 }
