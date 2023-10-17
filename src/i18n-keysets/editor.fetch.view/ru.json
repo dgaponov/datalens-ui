@@ -1,20 +1,4 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_repeat": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_loading-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_repeat": "Повторить",
+  "label_loading-error": "Не удалось загрузить"
 }
