@@ -1,20 +1,4 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "context_table-of-content": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_table-of-content": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "context_table-of-content": "Оглавление",
+  "label_table-of-content": "Оглавление"
 }
