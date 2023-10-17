@@ -1,16 +1,3 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "toast_editing-warning": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "toast_editing-warning": "Из-за технических работ сервис работает в ограниченном режиме, некоторые функции редактирования недоступны"
 }
