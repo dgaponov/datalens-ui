@@ -1,4 +1,11 @@
 {
-  "label_datalens-neo-20-palette": "Название палитры",
-  "label_default-palette": "Название палитры"
+  "context": "",
+  "allowedStatuses": [
+    "APPROVED",
+    "EXPIRED",
+    "GENERATED",
+    "REQUIRES_TRANSLATION",
+    "TRANSLATED"
+  ],
+  "status": {}
 }
