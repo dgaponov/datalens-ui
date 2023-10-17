@@ -1,268 +1,66 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_apply": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_cancel": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_close": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_continue-anyway": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_create": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_create-connection": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_create-dashboard": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_create-dataset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_create-widget": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_details": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_done": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_goto-folder": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_move": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_request-rights": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "button_retry": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_access-denied-folder": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_batch-move-access-error-description": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_batch-move-success-description": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_batch-selected-entries-count": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_empty-folder": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_failed-load-navigation": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_mobile-navigation-filters-all": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_mobile-navigation-filters-favorites": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_mobile-navigation-filters-mine": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_not-found": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_placeholder-filter-by-name": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_placeholder-search": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_quick-access": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_table-column-author": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_table-column-date": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_table-column-entry-name": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_batch-move-access-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_batch-move-error": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_batch-move-progress": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_batch-move-select-destination": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "section_sidebar-title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "switch_connections": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "switch_dashboards": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "switch_datasets": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "switch_favorites": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "switch_latest": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "switch_personal-folder": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "switch_root": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "switch_widgets": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_failed-add-favorite": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "toast_failed-remove-favorite": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_create-connection": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_create-dashboard": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_create-dashboard-new": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_create-dataset": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_create-editor": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_create-folder": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_create-monitoringql": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_create-promql": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_create-ql": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_create-sql": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_create-widget": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_create-wizard": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_date-ascending": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_date-descending": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_name-ascending": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_name-descending": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_ownership-all": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "value_ownership-only-mine": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_apply": "Применить",
+  "button_cancel": "Отменить",
+  "button_close": "Закрыть",
+  "button_continue-anyway": "Все равно продолжить",
+  "button_create": "Создать",
+  "button_create-connection": "Создать подключение",
+  "button_create-dashboard": "Создать дашборд",
+  "button_create-dataset": "Создать датасет",
+  "button_create-widget": "Создать чарт",
+  "button_details": "Подробнее",
+  "button_done": "Готово",
+  "button_goto-folder": "Перейти к папке",
+  "button_move": "Переместить",
+  "button_request-rights": "Запросить права",
+  "button_retry": "Повторить",
+  "label_access-denied-folder": "Доступ запрещён",
+  "label_batch-move-access-error-description": "Недостаточно прав для перемещения файлов. Обратитесь к администратору файлов.",
+  "label_batch-move-success-description": "Файлы успешно перемещены",
+  "label_batch-selected-entries-count": "Выбрано объектов — {{value}}",
+  "label_empty-folder": "Пустая папка",
+  "label_failed-load-navigation": "Не удалось загрузить навигацию",
+  "label_mobile-navigation-filters-all": "Все",
+  "label_mobile-navigation-filters-favorites": "Избранные",
+  "label_mobile-navigation-filters-mine": "Мои",
+  "label_not-found": "Ничего не найдено",
+  "label_placeholder-filter-by-name": "Фильтр по имени",
+  "label_placeholder-search": "Поиск",
+  "label_quick-access": "Быстрый доступ",
+  "label_table-column-author": "Автор",
+  "label_table-column-date": "Дата",
+  "label_table-column-entry-name": "Название",
+  "section_batch-move-access-error": "Ошибка доступа",
+  "section_batch-move-error": "Ошибка перемещения",
+  "section_batch-move-progress": "Перемещение файлов ...",
+  "section_batch-move-select-destination": "Куда переместить?",
+  "section_sidebar-title": "Навигация",
+  "switch_connections": "Подключения",
+  "switch_dashboards": "Дашборды",
+  "switch_datasets": "Датасеты",
+  "switch_favorites": "Избранное",
+  "switch_latest": "Последние",
+  "switch_personal-folder": "Личная папка",
+  "switch_root": "Все объекты",
+  "switch_widgets": "Чарты",
+  "toast_failed-add-favorite": "Не удалось добавить в избранное",
+  "toast_failed-remove-favorite": "Не удалось удалить из избранного",
+  "value_create-connection": "Подключение",
+  "value_create-dashboard": "Дашборд",
+  "value_create-dashboard-new": "Дашборд (new)",
+  "value_create-dataset": "Датасет",
+  "value_create-editor": "Чарт в Editor",
+  "value_create-folder": "Папку",
+  "value_create-monitoringql": "Чарт Monitoring",
+  "value_create-promql": "Чарт Prometheus",
+  "value_create-ql": "QL-чарт",
+  "value_create-sql": "Чарт SQL",
+  "value_create-widget": "Чарт",
+  "value_create-wizard": "Чарт в Wizard",
+  "value_date-ascending": "Сначала старые",
+  "value_date-descending": "Сначала новые",
+  "value_name-ascending": "А-Я",
+  "value_name-descending": "Я-А",
+  "value_ownership-all": "Все",
+  "value_ownership-only-mine": "Только мои"
 }
