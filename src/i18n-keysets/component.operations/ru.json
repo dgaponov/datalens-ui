@@ -1,112 +1,27 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "label_operation-all-values": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-contains": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-contains-case": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-date-in": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-endswith": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-endswith-case": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-equals": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-gt": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-gte": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-in": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-is-not-null": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-is-null": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-leneq": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-lengt": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-lengte": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-lenlt": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-lenlte": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-lt": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-lte": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-nequals": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-nin": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-notcontains": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-notcontains-case": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-startswith": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_operation-startswith-case": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "label_operation-all-values": "Нет выбранных значений",
+  "label_operation-contains": "Содержит (без учета регистра)",
+  "label_operation-contains-case": "Содержит (с учетом регистра)",
+  "label_operation-date-in": "Принадлежит диапазону",
+  "label_operation-endswith": "Заканчивается на (без учета регистра)",
+  "label_operation-endswith-case": "Заканчивается на (с учетом регистра)",
+  "label_operation-equals": "Равно",
+  "label_operation-gt": "Больше",
+  "label_operation-gte": "Больше или равно",
+  "label_operation-in": "Принадлежит множеству",
+  "label_operation-is-not-null": "Не пусто",
+  "label_operation-is-null": "Пусто",
+  "label_operation-leneq": "Длина равна",
+  "label_operation-lengt": "Длина больше",
+  "label_operation-lengte": "Длина больше или равна",
+  "label_operation-lenlt": "Длина меньше",
+  "label_operation-lenlte": "Длина меньше или равна",
+  "label_operation-lt": "Меньше",
+  "label_operation-lte": "Меньше или равно",
+  "label_operation-nequals": "Не равно",
+  "label_operation-nin": "Не принадлежит множеству",
+  "label_operation-notcontains": "Не содержит (без учета регистра)",
+  "label_operation-notcontains-case": "Не содержит (с учетом регистра)",
+  "label_operation-startswith": "Начинается на (без учета регистра)",
+  "label_operation-startswith-case": "Начинается на (с учетом регистра)"
 }
