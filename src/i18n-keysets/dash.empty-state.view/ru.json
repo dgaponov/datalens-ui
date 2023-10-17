@@ -1,40 +1,9 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "button_edit": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_empty-dash": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_empty-tab": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_mobile-dash": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_mobile-tab": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_with-edit-rights": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_without-edit-rights": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "button_edit": "Редактировать",
+  "label_empty-dash": "Дашборд пока пустой",
+  "label_empty-tab": "На этой вкладке пока пусто",
+  "label_mobile-dash": "На него ещё ничего не добавили",
+  "label_mobile-tab": "На неё ещё ничего не добавили",
+  "label_with-edit-rights": "Вы можете добавить сюда чарты, селекторы и поясняющий текст",
+  "label_without-edit-rights": "Владелец дашборда ещё ничего сюда не добавил"
 }
