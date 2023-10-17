@@ -1,44 +1,10 @@
 {
-  "context": "",
-  "allowedStatuses": [
-    "APPROVED",
-    "EXPIRED",
-    "GENERATED",
-    "REQUIRES_TRANSLATION",
-    "TRANSLATED"
-  ],
-  "status": {
-    "label_parameter-name-column": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_parameter-name-column-description": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_parameter-type-column": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_parameter-value-column": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "label_parameter-value-column-description": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tab-parameters_add-button": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tab-parameters_description": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    },
-    "tab-parameters_title": {
-      "en": "APPROVED",
-      "ru": "APPROVED"
-    }
-  }
+  "label_parameter-name-column": "Имя параметра",
+  "label_parameter-name-column-description": "Ограничения на имя параметра: \n* Допускаются только латинские буквы (прописные и строчные), цифры, знак тире `-` и нижнее подчеркивание `_`. \n* Имя параметра регистрозависимое: `Test` и `test` — различные параметры. \n* Длина имени не должна превышать 36 символов. \n* Не допускается наименование параметра, начинающегося с символа нижнего подчеркивания: `_name`. \n* Зарезервированные имена параметров, которые нельзя использовать: `tab`, `state`, `mode`, `focus`, `grid`, `tz`, `from`, `to`.",
+  "label_parameter-type-column": "Тип",
+  "label_parameter-value-column": "Значение по умолчанию",
+  "label_parameter-value-column-description": "Значение по умолчанию обязательно. Оно используется в случаях, когда значение параметра не определено на дашборде, в URL чарта, или в настройках самого чарта.",
+  "tab-parameters_add-button": "Добавить",
+  "tab-parameters_description": "Параметр — это переменная датасета или чарта, которая может заменять константные значения в вычисляемых полях. Параметр может быть числом, строкой, датой или логическим значением. Параметры датасета доступны во всех чартах, созданных на основе этого датасета. Значение по умолчанию для параметра может быть переопределено на уровне чарта.",
+  "tab-parameters_title": "Параметры"
 }
