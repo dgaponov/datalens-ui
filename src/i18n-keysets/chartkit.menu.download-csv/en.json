@@ -1,5 +1,5 @@
 {
-  "button_cancel": "Cancel",
+  "button_cancel": "Cancel change",
   "button_download": "Save",
   "label_attention": "If pagination is enabled, only the displayed table rows are exported",
   "label_decimal-delimiter": "Fraction delimiter",
