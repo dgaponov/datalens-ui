@@ -1,5 +1,5 @@
 {
-  "export_failed": "Data export error",
+  "export_failed": "Data export error test",
   "export_limit_error": "You can export data up to {{limit}}; your data size is {{length}}.",
   "export_success": "Copied to clipboard",
   "format_csv": "CSV",

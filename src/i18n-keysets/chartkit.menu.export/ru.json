@@ -1,5 +1,5 @@
 {
-  "export_failed": "Ошибка экспорта данных",
+  "export_failed": "Ошибка экспорта данных. mmmmeee",
   "export_limit_error": "Для экспорта доступны данные объёмом до {{limit}}, объём ваших данных — {{length}}.",
   "export_success": "Скопировано в буфер обмена",
   "format_csv": "CSV",
