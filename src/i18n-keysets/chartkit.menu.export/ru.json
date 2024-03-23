@@ -3,7 +3,7 @@
   "export_limit_error": "Для экспорта доступны данные объёмом до {{limit}}, объём ваших данных — {{length}}.",
   "export_success": "Скопировано в буфер обмена",
   "format_csv": "CSV",
-  "format_image": "Изображение",
+  "format_image": "Изображение изменение русского провоцирует английский",
   "format_markdown": "Markdown",
   "format_wiki": "Wiki",
   "format_xlsx": "XLSX",
