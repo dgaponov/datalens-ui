@@ -11,5 +11,6 @@
   "label_integer": "Integer",
   "label_markup": "Markup",
   "label_string": "String",
-  "label_unsupported": "Unsupported type"
+  "label_unsupported": "Unsupported type",
+  "key_new": "New"
 }

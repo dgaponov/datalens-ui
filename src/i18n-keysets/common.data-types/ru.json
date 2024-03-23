@@ -11,5 +11,6 @@
   "label_integer": "Целое число",
   "label_markup": "Разметка",
   "label_string": "Строка",
-  "label_unsupported": "Неподдерживаемый тип"
+  "label_unsupported": "Неподдерживаемый тип",
+  "key_new": "новый"
 }
