@@ -1,4 +1,5 @@
 {
+  "key_new": "New",
   "label_array_float": "Array of fractional numbers",
   "label_array_int": "Array of integers",
   "label_array_str": "Array of strings",
@@ -11,6 +12,5 @@
   "label_integer": "Integer",
   "label_markup": "Markup",
   "label_string": "String",
-  "label_unsupported": "Unsupported type",
-  "key_new": "New"
+  "label_unsupported": "Unsupported type"
 }
