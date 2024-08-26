@@ -7,9 +7,6 @@ on:
         paths:
             - 'src/i18n-keysets/**'
     workflow_dispatch:
-    # pull_request_target is needed instead of just pull_request
-    # because secret is needed to sync with weblate
-    # Attention! Read more at https://nathandavison.com/blog/github-actions-and-the-threat-of-malicious-pull-requests
     pull_request_target:
         types: ['opened', 'reopened', 'synchronize', 'closed']
         branches:
@@ -17,10 +14,14 @@ on:
         paths:
             - 'src/i18n-keysets/**'
 
+concurrency:
+    group: ${{ github.workflow }}-${{ github.ref }}
+    cancel-in-progress: false
+
 jobs:
     i18n_check:
+        if: github.actor != 'WeblateGravity'        
         runs-on: ubuntu-latest
-        if: github.actor != 'WeblateGravity'
         steps:
             - uses: actions/checkout@v4
               with:
@@ -34,5 +35,3 @@ jobs:
                   PROJECT: "datalens-fork"
                   MAIN_LANGUAGE: "ru"
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-# TODO remove weblate branch after merge pull request
