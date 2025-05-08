@@ -1,0 +1,11 @@
+{
+  "button_edit-panel-chart": "Chart",
+  "button_edit-panel-selector": "Selector",
+  "button_edit-panel-text": "Text",
+  "button_edit-panel-title": "Header",
+  "button_edit-panel-paste": "Paste",
+  "button_links": "Links",
+  "label_loading": "Uploading",
+  "label_updating": "Updating",
+  "toast_unsaved": "There are unsaved changes on the page. Are you sure?"
+}
